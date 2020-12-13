@@ -3,3 +3,5 @@
 *.pdf
 *.env
 .vscode/
+/.ipynb_checkpoints
+/workspace.code-workspace
